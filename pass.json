@@ -1,1 +1,11 @@
-1
+{
+  "timestamp": 1600427243,
+  "signatures": {
+    "dwGlobalVars": "NamAlsK_bizWar_Lu4ik",
+    "dwGlowObjectManager": 86601712
+  },
+  "netvars": {
+    "m_vecViewOffset": 264,
+    "m_viewPunchAngle": 12320
+  }
+}
